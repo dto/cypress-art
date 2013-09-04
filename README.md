@@ -1,0 +1,4 @@
+cypress-scans
+=============
+
+cypress-scans
